@@ -104,3 +104,41 @@ transition: 0.3s;
         gap: 30px;
     }
 }
+
+/* <---------  Mobile_View  ----------> */
+
+@media(max-width:480px){
+    .services{
+        align-items: start;
+        gap: 70px;
+        margin: 50px 70px;
+    }
+    .services-title h1{
+        font-size: 45px;
+    }
+    .services-title img{
+        width: 130px;
+        margin-right: -20px;
+    }
+    .services-format{
+        gap: 20px;
+        padding: 32px;
+    }
+    .services-format h3 img {
+        width: 30px;
+        height: 30px;
+    }
+    .services-format h2{
+        font-size: 26px;
+    }
+    .services-format p{
+        font-size: 14px;
+        line-height: 28px;
+    }
+    .services-readmore img{
+        width: 16px;
+    }
+    .services-container{
+        grid-template-columns:1fr;
+    }
+}

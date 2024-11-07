@@ -6,7 +6,7 @@ function Footer() {
   return (
     <div className="footer">
       <div className="footer-top">
-        <img className="logo" src={logo} alt="footer_logo" />
+        <img className="footer-logo" src={logo} alt="footer_logo" />
       </div>
       <hr />
     <div className="footer-bottom">
