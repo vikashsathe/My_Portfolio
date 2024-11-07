@@ -203,7 +203,7 @@
 
 @media(max-width:480px) {
     .about {
-        gap: 120px;
+        gap: 90px;
         margin: 50px 70px;
         align-items: center;
         justify-items: center;
