@@ -66,7 +66,7 @@ function Contect() {
           <div className="contect-social">
             <a href="https://github.com/vikashsathe"><img src={github} alt="" /></a>
             <a href="https://www.linkedin.com/in/vikash-sathe-941166208/"><img src={linkedin} alt="" /></a>
-            <a href=""><img src={twitter} alt="" /></a>
+            <a href="https://twitter.com/vikash_sathe"><img src={twitter} alt="" /></a>
             <a href=""><img src={instagram} alt="" /></a>
           </div>
         </div>
