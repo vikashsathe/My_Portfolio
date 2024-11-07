@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  height: 100vh;
+  background: #080808;
+  color: white;
+  font-family: "League Gothic", sans-serif;   
+  font-weight: 400;
+  text-transform: capitalize;
+}
